@@ -2,7 +2,7 @@
   "name": "Workout Tracker",
   "short_name": "Workouts",
   "description": "Track lifting and running workouts offline",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#2d4a4a",
   "theme_color": "#2d4a4a",
