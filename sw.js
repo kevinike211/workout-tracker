@@ -1,14 +1,14 @@
-const CACHE_NAME = 'workout-tracker-v15';
+const CACHE_NAME = 'workout-tracker-v16';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/css/styles.css',
-  '/js/db.js',
-  '/js/app.js',
-  '/js/charts.js',
-  '/manifest.json',
-  '/icons/icon-192.svg',
-  '/icons/icon-512.svg'
+  './',
+  './index.html',
+  './css/styles.css',
+  './js/db.js',
+  './js/app.js',
+  './js/charts.js',
+  './manifest.json',
+  './icons/icon-192.svg',
+  './icons/icon-512.svg'
 ];
 
 self.addEventListener('install', (e) => {
